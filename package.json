@@ -12,7 +12,7 @@
   "dependencies": {
     "cookie": "^0.3.1",
     "dotenv": "^6.0.0",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.3",
     "havenondemand": "^1.4.0",
     "node-fetch": "^2.2.0",
